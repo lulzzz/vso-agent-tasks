@@ -1,11 +1,11 @@
 {
     "manifestVersion": 1,
-    "id": "UpdateDatabaseWithDbUp",
-    "name": "DbUp Migration",
-    "version": "0.11.0",
+    "id": "UpdateDatabaseWithDbUp-beta",
+    "name": "DbUp Migration-beta",
+    "version": "0.11.3",
     "publisher": "johanclasson",
     "galleryFlags": [
-        "Public"
+        "Private"
     ],
     "targets": [
         {
@@ -51,7 +51,7 @@
     ],
     "contributions": [
         {
-            "id": "UpdateDatabaseWithDbUp",
+            "id": "UpdateDatabaseWithDbUp-beta",
             "type": "ms.vss-distributed-task.task",
             "targets": [
                 "ms.vss-distributed-task.tasks"
